@@ -1,0 +1,3 @@
+Link de colab
+
+https://colab.research.google.com/github/ageron/julia_notebooks/blob/master/Julia_Colab_Notebook_Template.ipynb#scrollTo=yIqn46stKpWE
